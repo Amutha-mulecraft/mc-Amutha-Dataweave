@@ -1,1 +1,4 @@
-
+{
+    "companyName":["Mulecrafyt","Zoho","Amazon","Microsoft"],
+    "remove":["Zoho"]
+}
