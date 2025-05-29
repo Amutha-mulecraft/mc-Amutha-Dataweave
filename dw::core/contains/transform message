@@ -1,1 +1,12 @@
+%dw 2.0
+output application/json
+---
+{
+    game:payload.sports,
+    checks:{
+        isAvalilable:contains(payload.sports,"cricket"),
+        isAvalilable:contains(payload.sports,"bat minton")
+    }
+    
+}
 
