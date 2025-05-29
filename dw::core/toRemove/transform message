@@ -1,1 +1,5 @@
 
+%dw 2.0
+output application/json
+---
+companies: payload.companyName -- payload.remove 
