@@ -1,1 +1,9 @@
 
+%dw 2.0
+output application/json
+---
+{
+    toatlDays : daysBetween(payload.leaveRequest.startDate as Date,
+    payload.leaveRequest.endDate as Date)
+    
+}
