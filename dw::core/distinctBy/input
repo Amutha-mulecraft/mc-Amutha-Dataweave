@@ -1,1 +1,8 @@
 
+{
+  "employees": [
+    { "name": "amu", "email": "amu@gmail.com" },
+    { "name": "kani", "email": "kani@gmail.com" },
+    { "name": "amu", "email": "amu@gmail.com" } 
+  ]
+}
