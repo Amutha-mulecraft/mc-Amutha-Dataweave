@@ -1,1 +1,9 @@
+%dw 2.0
+input payload application/json
+output application/json
+---
+entriesOf(payload.products) map (item) -> {
+  productId: item.key,
+  details: item.value
+}
 
