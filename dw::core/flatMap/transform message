@@ -1,0 +1,9 @@
+%dw 2.0
+output application/json
+---
+payload flatMap (account) -> 
+  account.Contacts map (contact) -> {
+    accountId: account.Id,
+    contactId: contact.Id,
+    name: contact.FirstName
+  }
