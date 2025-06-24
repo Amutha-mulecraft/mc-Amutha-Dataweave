@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "006A",
+    "Name": "Big Deal A",
+    "StageName": "Prospecting",
+    "Amount": 50000,
+    "CloseDate": "2024-12-01"
+  },
+  {
+    "Id": "006B",
+    "Name": "Big Deal B",
+    "StageName": "Closed Lost",
+    "Amount": 200000,
+    "CloseDate": "2024-11-01"
+  },
+  {
+    "Id": "006C",
+    "Name": "Big Deal C",
+    "StageName": "Closed Won",
+    "Amount": 75000,
+    "CloseDate": "2024-10-15"
+  },
+  {
+    "Id": "006D",
+    "Name": "Big Deal D",
+    "StageName": "Closed Won",
+    "Amount": 250000,
+    "CloseDate": "2024-09-10"
+  }
+]
