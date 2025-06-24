@@ -1,0 +1,13 @@
+%dw 2.0
+output application/json
+---
+flatten(
+  payload map (account) ->
+    account.Opportunities map (opp) -> {
+      opportunityId: opp.Id,
+      opportunityName: opp.Name,
+      amount: opp.Amount,
+      accountId: account.Id,
+      accountName: account.Name
+    }
+)
