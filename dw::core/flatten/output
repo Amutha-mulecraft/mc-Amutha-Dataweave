@@ -1,0 +1,23 @@
+[
+  {
+    "opportunityId": "O101",
+    "opportunityName": "Opp A",
+    "amount": 10000,
+    "accountId": "A001",
+    "accountName": "Acme Corp"
+  },
+  {
+    "opportunityId": "O102",
+    "opportunityName": "Opp B",
+    "amount": 15000,
+    "accountId": "A001",
+    "accountName": "Acme Corp"
+  },
+  {
+    "opportunityId": "O201",
+    "opportunityName": "Opp C",
+    "amount": 20000,
+    "accountId": "A002",
+    "accountName": "Beta Ltd"
+  }
+]
