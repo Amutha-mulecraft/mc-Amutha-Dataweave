@@ -1,0 +1,10 @@
+{
+  "Id": "001ABC",
+  "Name": "Acme Corp",
+  "AccountNumber": "A1234",
+  "Industry": "Technology",
+  "Website": "www.acme.com",
+  "CreatedDate": "2024-06-01T12:00:00Z",
+  "OwnerId": "005XYZ",
+  "BillingCity": "New York"
+}
