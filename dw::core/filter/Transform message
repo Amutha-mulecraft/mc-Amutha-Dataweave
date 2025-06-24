@@ -1,0 +1,5 @@
+%dw 2.0
+output application/json
+---
+payload filter (account) -> 
+    account.Status__c == "Active" and account.AnnualRevenue > 1000000
