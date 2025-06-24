@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "A001",
+    "Name": "Acme Corp",
+    "Contacts": [
+      { "Id": "C101", "FirstName": "Alice" },
+      { "Id": "C102", "FirstName": "Bob" }
+    ]
+  },
+  {
+    "Id": "A002",
+    "Name": "Beta Ltd",
+    "Contacts": [
+      { "Id": "C201", "FirstName": "Charlie" }
+    ]
+  }
+]
