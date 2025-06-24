@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "A001",
+    "Name": "Acme Corp",
+    "Opportunities": [
+      { "Id": "O101", "Name": "Opp A", "Amount": 10000 },
+      { "Id": "O102", "Name": "Opp B", "Amount": 15000 }
+    ]
+  },
+  {
+    "Id": "A002",
+    "Name": "Beta Ltd",
+    "Opportunities": [
+      { "Id": "O201", "Name": "Opp C", "Amount": 20000 }
+    ]
+  },
+  {
+    "Id": "A003",
+    "Name": "Empty Corp",
+    "Opportunities": []
+  }
+]
