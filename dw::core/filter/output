@@ -1,0 +1,4 @@
+[
+  { "Id": "0011", "Name": "Acme Corp", "Status__c": "Active", "AnnualRevenue": 5000000 },
+  { "Id": "0014", "Name": "Delta LLC", "Status__c": "Active", "AnnualRevenue": 1500000 }
+]
