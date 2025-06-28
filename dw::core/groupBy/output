@@ -1,0 +1,22 @@
+{
+  "HR": [
+    {
+      "name": "Alice",
+      "dept": "HR"
+    },
+    {
+      "name": "Charlie",
+      "dept": "HR"
+    }
+  ],
+  "IT": [
+    {
+      "name": "Bob",
+      "dept": "IT"
+    },
+    {
+      "name": "David",
+      "dept": "IT"
+    }
+  ]
+}
