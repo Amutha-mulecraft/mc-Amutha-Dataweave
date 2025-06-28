@@ -1,0 +1,9 @@
+%dw 2.0
+output application/json
+fun isEven(n) = (n mod 2) == 0
+
+---
+payload map (n) -> {
+  number: n,
+  even: isEven(n)
+}
