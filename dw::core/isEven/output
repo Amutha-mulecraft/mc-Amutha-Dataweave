@@ -1,0 +1,26 @@
+[
+  {
+    "number": 1,
+    "even": false
+  },
+  {
+    "number": 2,
+    "even": true
+  },
+  {
+    "number": 3,
+    "even": false
+  },
+  {
+    "number": 4,
+    "even": true
+  },
+  {
+    "number": 5,
+    "even": false
+  },
+  {
+    "number": 6,
+    "even": true
+  }
+]
