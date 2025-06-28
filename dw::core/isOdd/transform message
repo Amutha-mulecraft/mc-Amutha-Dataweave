@@ -1,0 +1,8 @@
+%dw 2.0
+output application/json
+fun isOdd(n) = (n mod 2) != 0
+---
+payload map (n) -> {
+  number: n,
+  isOdd: isOdd(n)
+}
