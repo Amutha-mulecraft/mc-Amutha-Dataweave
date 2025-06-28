@@ -1,0 +1,7 @@
+%dw 2.0
+output application/json
+---
+if (isEmpty(payload)) 
+  { message: "No data to process" } 
+else 
+  { message: "Processing payload...", count: sizeOf(payload) }
