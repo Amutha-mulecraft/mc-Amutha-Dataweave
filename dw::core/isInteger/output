@@ -1,0 +1,26 @@
+[
+  {
+    "number": 1,
+    "isInteger": true
+  },
+  {
+    "number": 2,
+    "isInteger": true
+  },
+  {
+    "number": 3,
+    "isInteger": true
+  },
+  {
+    "number": 4,
+    "isInteger": true
+  },
+  {
+    "number": 5,
+    "isInteger": true
+  },
+  {
+    "number": 6,
+    "isInteger": true
+  }
+]
