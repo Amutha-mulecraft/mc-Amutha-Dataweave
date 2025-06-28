@@ -1,0 +1,8 @@
+%dw 2.0
+output application/json
+fun isInteger(n) = n != null and n == floor(n)
+---
+payload map (n) -> {
+  number: n,
+  isInteger: isInteger(n)
+}
