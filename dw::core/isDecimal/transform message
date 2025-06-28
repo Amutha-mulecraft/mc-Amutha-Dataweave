@@ -1,0 +1,8 @@
+%dw 2.0
+output application/json
+fun isDecimal(n) = n != floor(n)
+---
+payload map (n) -> {
+  number: n,
+  isDecimal: isDecimal(n)
+}
