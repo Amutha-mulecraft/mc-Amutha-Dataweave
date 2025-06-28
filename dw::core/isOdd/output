@@ -1,0 +1,22 @@
+[
+  {
+    "number": 1,
+    "isOdd": true
+  },
+  {
+    "number": 2,
+    "isOdd": false
+  },
+  {
+    "number": 3,
+    "isOdd": true
+  },
+  {
+    "number": 4,
+    "isOdd": false
+  },
+  {
+    "number": 5,
+    "isOdd": true
+  }
+]
