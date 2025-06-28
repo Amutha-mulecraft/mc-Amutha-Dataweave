@@ -1,0 +1,8 @@
+%dw 2.0
+output application/json
+var users = ["Alice", "Bob", "Charlie"]
+---
+users map (name) -> {
+  id: uuid(),
+  name: name
+}
