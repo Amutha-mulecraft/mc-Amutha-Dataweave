@@ -1,0 +1,22 @@
+[
+  {
+    "number": 1,
+    "isDecimal": false
+  },
+  {
+    "number": 2.5,
+    "isDecimal": true
+  },
+  {
+    "number": 3,
+    "isDecimal": false
+  },
+  {
+    "number": 4.75,
+    "isDecimal": true
+  },
+  {
+    "number": 5,
+    "isDecimal": false
+  }
+]
