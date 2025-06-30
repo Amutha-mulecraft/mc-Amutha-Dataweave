@@ -1,0 +1,8 @@
+%dw 2.0
+output application/json
+---
+{
+  name: payload.name,
+  phone: payload.phone replace /[0-9]/ with "x",
+  id: payload.id
+}
