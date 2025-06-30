@@ -1,0 +1,9 @@
+%dw 2.0
+output application/json
+---
+{
+  username: typeOf(payload.username),
+  age: typeOf(payload.age),
+  premium:typeOf(payload.tags),
+  profile:typeOf(payload.profile)
+}
