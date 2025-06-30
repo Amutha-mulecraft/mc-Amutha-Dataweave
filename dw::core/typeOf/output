@@ -1,0 +1,6 @@
+{
+  "username": "String",
+  "age": "Number",
+  "premium": "Array",
+  "profile": "Object"
+}
