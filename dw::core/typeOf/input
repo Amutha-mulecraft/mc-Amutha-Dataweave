@@ -1,0 +1,9 @@
+{
+  "username": "mello",
+  "age": 30,
+  "premium": true,
+  "tags": ["active", "member"],
+  "profile": {
+    "email": "mello@example.com"
+  }
+}
